@@ -7,6 +7,10 @@ sites:
     url: https://o11y.space/
   - name: wiki.o11y.space
     url: https://wiki.o11y.space/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
