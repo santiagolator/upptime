@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://o11y.space/wp-content/uploads/2022/04/cropped-1F52D_color.png
   name: o11y.space - Live status
   theme: night
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
