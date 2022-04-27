@@ -4,36 +4,39 @@
     "url": "https://o11y.space/",
     "icon": "https://favicons.githubusercontent.com/o11y.space",
     "slug": "o11y-space",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1626,
-    "timeDay": 1517,
+    "timeDay": 1518,
     "timeWeek": 1626,
     "timeMonth": 1626,
     "timeYear": 1626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 1
+    }
   },
   {
     "name": "wiki.o11y.space",
     "url": "https://wiki.o11y.space/",
     "icon": "https://favicons.githubusercontent.com/wiki.o11y.space",
     "slug": "wiki-o11y-space",
-    "status": "up",
-    "uptime": "99.75%",
+    "status": "down",
+    "uptime": "99.81%",
     "uptimeDay": "99.66%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 905,
-    "timeDay": 864,
+    "timeDay": 873,
     "timeWeek": 905,
     "timeMonth": 905,
     "timeYear": 905,
     "dailyMinutesDown": {
+      "2022-04-27": 0,
       "2022-04-26": 5
     }
   }
