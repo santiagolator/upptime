@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.88%",
     "time": 1776,
-    "timeDay": 1952,
-    "timeWeek": 1952,
-    "timeMonth": 1854,
+    "timeDay": 1534,
+    "timeWeek": 1881,
+    "timeMonth": 1848,
     "timeYear": 1850,
     "dailyMinutesDown": {
       "2023-11-14": 37,
@@ -37,15 +37,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.o11y.space.ico",
     "slug": "wiki-o11y-space",
     "status": "up",
-    "uptime": "71.10%",
+    "uptime": "71.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "82.75%",
-    "time": 1111,
-    "timeDay": 1028,
-    "timeWeek": 1094,
-    "timeMonth": 1087,
+    "uptimeYear": "83.03%",
+    "time": 1110,
+    "timeDay": 1014,
+    "timeWeek": 1097,
+    "timeMonth": 1088,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-11-24": 20,
@@ -114,8 +114,7 @@
       "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
-      "2022-12-05": 1440,
-      "2022-12-04": 1440
+      "2022-12-05": 1440
     }
   }
 ]
